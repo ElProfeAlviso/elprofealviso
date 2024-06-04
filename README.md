@@ -24,6 +24,7 @@
 <a href="https://fb.com/elprofealviso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elprofealviso" height="30" width="40" /></a>
 <a href="https://instagram.com/elprofealviso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elprofealviso" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/elprofealviso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elprofealviso" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@elprofealviso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="elprofealviso" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
