@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java coding**
 
-- 👨‍💻My FRC team is [Titanium Rams 5959](Titanium Rams 5959)
+- 👨‍💻My FRC team is [Titanium Rams 5959](Titanium Rams 5959 FTC)
 
 - 💬 Ask me about **First Robotics Competition**
 
