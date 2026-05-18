@@ -1,3 +1,4 @@
+<img width="1942" height="809" alt="Youtube" src="https://github.com/user-attachments/assets/79c59c4d-ec39-4579-b3b5-76527ab1a4c4" />
 <h1 align="center">Hi 👋, I'm El Profe Alviso</h1>
 <h3 align="center">A passionate First Robotics Competition Coach from México</h3>
 
